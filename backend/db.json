@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "",
+      "price": 0,
+      "id": 3
+    },
+    {
+      "name": "eduardo",
+      "price": "0asd",
+      "id": 4
+    },
+    {
+      "name": "carol",
+      "price": "0asd",
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 6
+    }
+  ]
+}
